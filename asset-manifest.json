@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chanqua/static/css/main.173882f3.css",
+    "main.js": "/chanqua/static/js/main.b0b8278f.js",
+    "static/js/787.73f12a92.chunk.js": "/chanqua/static/js/787.73f12a92.chunk.js",
+    "index.html": "/chanqua/index.html",
+    "main.173882f3.css.map": "/chanqua/static/css/main.173882f3.css.map",
+    "main.b0b8278f.js.map": "/chanqua/static/js/main.b0b8278f.js.map",
+    "787.73f12a92.chunk.js.map": "/chanqua/static/js/787.73f12a92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.173882f3.css",
+    "static/js/main.b0b8278f.js"
+  ]
+}
